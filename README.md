@@ -1,2 +1,3 @@
 # hello-world
 My very first repository
+Hello world! This first repository seems to be going ok....
